@@ -154,21 +154,26 @@ Two concrete pilot programs were proposed, each with defined pricing, duration, 
 
 ---
 
-## 📁 Project Structure
 
+## 📂 Project Structure
+
+```
 GTA_Program_Landscape_Analysis/
 │
 ├── Dashboard/
-│ └── GTA_Program_Landscape_Dashboard.pdf
+│   └── GTA_Program_Landscape_Dashboard.pdf/
+│
 ├── Documentation/
-│ ├── Executive_Summary.pdf
-│ └── Recommendations_Report.pdf
+│   ├── Executive_Summary.pdf
+│   ├── Recommendations_Report.pdf
+│
 ├── Data/
-  ├── GTA_Master_Programs.xlsx 
-│ └── Raw_Greater_Toronto_Area_Programs.xlsx
-└── README.md
+│   └── GTA_Master_Programs.xlsx
+│   └── Raw_Greater_Toronto_Area_Programs.xlsx
+│
+├── README.md
+```
 
----
 
 ## 👤 Author
 
