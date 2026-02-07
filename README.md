@@ -110,6 +110,8 @@ Insights were visualized in an interactive **Google Looker Studio dashboard**, f
 
 The dashboard allows users to dynamically filter results by city, age group, category, pricing, and time period.
 
+<img src="Dashboard/GTA_Dashboard.png" alt="dashboard" width="auto" height="auto">
+
 ---
 ## 📊 Key Insights
 
